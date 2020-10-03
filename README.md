@@ -7,7 +7,7 @@
 ![Image of repo](https://github.com/Kartik-Ganiga/images/blob/main/repo.png)
 click on the Fork button in the top-right corner.
 <br/>
-Once there, click on the  **Fork**  button in the top-right corner. This creates a new copy of my demo repo under **your GitHub user account** with a URL like <br/>
+Once there, click on the  **Fork**  button in the top-right corner. This creates a new copy of **lottery-solidity** repo under **your GitHub user account** with a URL like <br/>
 
 `https://github.com/<YourUserName>/lottery-solidity`
 
