@@ -4,10 +4,12 @@
 #### First thing first, <br/>install Git Bash on your computer , then follow below :smile::smile::smile:
 
 1. The next step is to fork a repo, say mine below :wink: <br/> <br/> <br/>
+https://github.com/Kartik-Ganiga/lottery-solidity
+
 ![Image of repo](https://github.com/Kartik-Ganiga/images/blob/main/repo.png)
 click on the Fork button in the top-right corner.
 <br/>
-Once there, click on the  **Fork**  button in the top-right corner. This creates a new copy of "lottery-solidity" repo under **your GitHub user account** with a URL like <br/>
+Once there, click on the  **Fork**  button in the top-right corner. This creates a new copy of my demo repo under **your GitHub user account** with a URL like <br/>
 
 `https://github.com/<YourUserName>/lottery-solidity`
 
